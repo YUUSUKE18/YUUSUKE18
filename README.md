@@ -1,5 +1,8 @@
 <h1 align="center">Hey Guys👋, I'm YUUSUKE</h1>
 
+I am working in Tokyo.
+Recently, Golang and React/Typescript are used in my work. In addition, Rust will be used in nearly months.
+
 <h3 align="center">A passionate FullStack developer from Japan</h3>
 
 <p align="left">
