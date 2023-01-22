@@ -3,6 +3,10 @@
 I am working in Tokyo.
 Recently, Golang and React/Typescript are used in my work. In addition, Rust will be used in nearly months.
 
+[![YUUSUKE's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUUSUKE18&theme=vue-dark&show_icons=true)](https://github.com/S-guchi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUUSUKE18&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/S-guchi/github-readme-stats)
+
 <h3 align="center">A passionate FullStack developer from Japan</h3>
 
 <p align="left">
