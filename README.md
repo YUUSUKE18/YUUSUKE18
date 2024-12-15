@@ -16,3 +16,4 @@ Recently, Golang and React/Typescript are used in my work. In addition, Rust wil
 
 <h3>OSS Project</h3>
 Translate English of Tauri, which is based Rust Framework, to <a href="https://tauri.crowdin.com/translate/7dfb2c3bcbe2a8ea743b816cc64cfc69/503/en-ja/7?filter=basic&value=0">Japanese</a>.
+Translate English of freeCodeCamp contents, to <a href="https://www.freecodecamp.org/japanese/news/author/yuusuke/"></a>Japanese</a>
